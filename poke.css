@@ -1,0 +1,22 @@
+ 
+ body{
+	 text-align:center;
+	 background-image: url(manectric.gif);
+	
+ }
+ 
+ .pokemon-card img {
+	 width: 300px;
+	 height: 400px;
+	 margin-top: 10px;
+ }
+
+ #myBtn{
+background-color: aquamarine;
+color:black;
+border: black 4px solid;
+text-align:center;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 40px;
+margin: auto;
+ }
